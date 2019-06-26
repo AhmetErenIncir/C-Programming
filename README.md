@@ -1,2 +1,2 @@
-# C-Programming
-C Programming Projects and Examples
+# C-Programming Pointers
+C Programming Projects and Examples about Pointers
